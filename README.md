@@ -1,0 +1,2 @@
+# sales_management_system
+家電量販店の販売管理システム
